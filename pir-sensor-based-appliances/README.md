@@ -1,6 +1,8 @@
 # pir-sensor-based-appliances
 > ## Images
 
+####  final_product.jpg
+![final_product.jpg](./final_product.jpg 'final_product.jpg')
 ####  circuit.jpg
 ![circuit.jpg](./circuit.jpg 'circuit.jpg')
 <br>
@@ -22,6 +24,10 @@
 <br>
 
 > ## Text Files
+
+#### note.txt
+
+Feature wanted: when 1st time switch pressed it should start running that time, without the sensor sensing. and it work as normal.
 
 #### url.txt
 

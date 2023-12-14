@@ -1,0 +1,1 @@
+Feature wanted: when 1st time switch pressed it should start running that time, without the sensor sensing. and it work as normal.
